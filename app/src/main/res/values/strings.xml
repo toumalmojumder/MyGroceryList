@@ -5,4 +5,5 @@
     <string name="enter_grocery_item">Enter Grocery Item</string>
     <string name="enter_grocery_quantity">Enter grocery Quantity</string>
     <string name="save">Save</string>
+    <string name="title_activity_list">ListActivity</string>
 </resources>
